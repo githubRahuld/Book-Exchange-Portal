@@ -77,4 +77,6 @@ A Peer-to-Peer Book Exchange Portal that allows users to register as book **owne
    
 6. **🙌 Author**
 Made with ❤️ by Rahul Dhakad
+
+7. **Used ChatGPT For fixing bugs 
   
